@@ -1,6 +1,6 @@
-### Hi! 👋 Saya Achmad Putra A.
+### Hi! 👋 Saya Nouval B. Saputra 
 
-Perkenalkan nama lengkap saya *Achmad Putra Arifky*.
+Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 
 ### Github Statistic
 <p align="left">
