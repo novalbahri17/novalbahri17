@@ -1,6 +1,6 @@
-### Hi! 👋 Saya Nouval B. Saputra
+### Hi! 👋 Saya Achmad Putra A.
 
-Perkenalkan nama lengkap saya *Nouval B. Saputra*.
+Perkenalkan nama lengkap saya *Achmad Putra Arifky*.
 
 ### Github Statistic
 <p align="left">
@@ -17,6 +17,6 @@ Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
 
 **Language Stats:**<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novalbahri17&layout=compact&theme=onedark)](https://github.com/novalbahri17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novalbahri17&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=novalbahri17&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"/>
