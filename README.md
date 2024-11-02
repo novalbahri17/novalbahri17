@@ -10,7 +10,7 @@ Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 </p>
 
 **Skills:**<br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript,typescript,vue,react,flutter,bootstrap,laravel,tailwind,dart&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript,typescript,vue,react,flutter,laravel,tailwind,dart&theme=dark)](https://skillicons.dev)
 
 **Tools:**<br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
