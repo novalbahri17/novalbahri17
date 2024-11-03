@@ -1,6 +1,6 @@
 ### Hi! 👋 Saya Nouval B. Saputra 
 
-Perkenalkan nama lengkap saya *Nouval B. Saputra*.
+Perkenalkan nama lengkap saya *Nouval B. Saputr*.
 
 ### Github Statistic
 <p align="left">
