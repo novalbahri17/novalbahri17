@@ -6,6 +6,8 @@ Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 <p align="left">
 <a href="https://github.com/novalbahri17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=novalbahri17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=novalbahri17&layout=compact&langs_count=8&theme=algolia"/>
+
 </a>
 </p>
 
