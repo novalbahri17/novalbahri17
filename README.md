@@ -1,8 +1,9 @@
 ### Hi! 👋 Saya Nouval B. Saputra 
 
 Perkenalkan nama lengkap saya *Nouval B. Saputra*.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=novalbahri17&label=Profile%20views&color=0e75b6&style=flat" alt="novalbahri17" /> </p>
-
+<p align="left" style="display: none;"> 
+  <img src="https://komarev.com/ghpvc/?username=novalbahri17&label=Profile%20views&color=0e75b6&style=flat" alt="novalbahri17" /> 
+</p>
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/novalbahri17">
