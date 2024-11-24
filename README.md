@@ -16,4 +16,3 @@ Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 **Tools:**<br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=novalbahri17&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"/>
