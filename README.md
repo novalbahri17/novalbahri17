@@ -19,6 +19,5 @@ Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 ## 📊 GitHub Stats & Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=novalbahri17&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novalbahri17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
