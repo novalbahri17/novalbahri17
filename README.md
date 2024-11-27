@@ -16,3 +16,9 @@ Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 **Tools:**<br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
 
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novalbahri17&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novalbahri17&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
