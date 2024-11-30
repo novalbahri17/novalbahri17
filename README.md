@@ -14,7 +14,7 @@ Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript,typescript,vue,react,flutter,laravel,tailwind,dart&theme=dark)](https://skillicons.dev)
 
 **Tools:**<br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,github,gitlab,figma&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
