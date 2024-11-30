@@ -3,6 +3,7 @@
 Perkenalkan nama lengkap saya *Nouval B. Saputra*.
 
   <img src="https://komarev.com/ghpvc/?username=novalbahri17&label=Profile%20views&color=0e75b6&style=flat" alt="novalbahri17" /> 
+  ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
 
 ### Github Statistic
 <p align="left">
